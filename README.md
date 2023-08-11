@@ -1,5 +1,8 @@
 # cds2types
 
+> **Note:**
+> This is a modified version of [mrbandler's cds2types](https://github.com/mrbandler/cds2types) with some fixes. The original README can be found below.
+
 [![npm version](https://badge.fury.io/js/cds2types.svg)](https://badge.fury.io/js/cds2types) [![Actions Status](https://github.com/mrbandler/cds2types/workflows/build/badge.svg)](https://github.com/mrbandler/cds2types/actions) [![GitHub License](https://img.shields.io/github/license/mrbandler/cds2types)](https://github.com/mrbandler/cds2types/blob/master/LICENSE)
 
 **CLI to convert CDS definitions to native Typescript types.**
