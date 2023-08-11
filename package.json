@@ -1,10 +1,13 @@
 {
-    "name": "cds2types",
+    "name": "@netux/cds2types",
     "version": "3.0.0",
     "description": "CLI to convert CDS models to Typescript interfaces and enumerations",
     "main": "./bin/cli.js",
-    "repository": "git@github.com:mrbandler/cds2types.git",
-    "author": "mrbandler <mrbandler@fivefingergames.com>",
+    "repository": "git@github.com:netux/cds2types.git",
+    "authors": "mrbandler <mrbandler@fivefingergames.com>",
+    "contributors": [
+        "netux <send.email@netux.site>"
+    ],
     "license": "MIT",
     "readme": "README.md",
     "bugs": {
