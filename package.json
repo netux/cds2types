@@ -19,6 +19,10 @@
     "files": [
         "bin"
     ],
+    "engines": {
+        "node": "^18",
+        "npm": "^9"
+    },
     "scripts": {
         "start": "node",
         "build": "tsc --project tsconfig.build.json",
